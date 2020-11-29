@@ -16,6 +16,7 @@ class Shop extends Component {
       </div>
     );
   }
+
 }
  
 export default Shop;

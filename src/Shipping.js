@@ -14,6 +14,7 @@ class Shipping extends Component {
         </ol>
       </div>
     );
+ 
   }
 }
  

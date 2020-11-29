@@ -30,6 +30,7 @@ class Main extends Component {
 		 </HashRouter>
     );
   }
+
 }
  
 export default Main;
