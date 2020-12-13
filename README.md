@@ -1,3 +1,10 @@
+I created this project to show how i would have designed a webpage that i thought was lacking customer appeal and organization. Which i think is a very big aspect to make sure any web designer should consider when designing the page.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
